@@ -188,7 +188,8 @@ class View:
         self.duration.get_style_context().add_class('error')
         self.create.set_sensitive(False)
         
-        self.mode = "a" ##modo que indica si estamos en modo actualizar datos (u) o añadir datos (a)
+        #modo que indica si estamos en modo actualizar datos (u) o añadir datos (a)
+        self.mode = "a"
 
     def connect(self, vc):
         self.create.connect('clicked', vc.on_create_clicked) 
