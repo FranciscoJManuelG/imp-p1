@@ -1,0 +1,90 @@
+Patrones de diseño del núcleo 
+-Guías Generales sobre listas
+Tenga cuidado de no saturar listas con elementos y columnas diferentes, y asegúrese de usarlas sólo para presentar información esencial.
+
+Como regla general, evite usar muchas listas en la misma ventana, particularmente en ventanas primarias.
+
+No use listas con menos de cinco elementos, a menos que el número de elementos pueda incrementar con el tiempo.
+
+-Guías Generales  sobre la ventana principal
+Siempre se debe mostrar una ventana primaria cuando se lance la aplicación.
+
+La ventana principal debe contener la principal funcionalidad de su aplicación. No se base en diálogos o ventanas secundarias con el fin de 
+preservar funcionalidades básicas.
+
+Salir debe cerrar todas las ventanas primarias.
+
+
+-Guías Generales sobre uso de rejillas
+Ordene los elementos en la cuadrícula de acuerdo a lo que sea mas útil para las personas al usar su aplicación. Ordenar el contenido de 
+acuerdo a lo que se uso recientemente es a veces la mejor opción.
+
+-Principios de diseño
+
+De un enfoque claro a su aplicación
+
+Mantenga la complejidad de la interfaz de usuario al mínimo
+
+Utilice la revelación progresiva para mostrar los controles cuando son necesarios
+
+Requiere el menor trabajo por parte del usuario como sea posible
+
+Cree una jerarquía clara
+
+De prioridad al contenido
+
+Anticípese a los errores
+
+-Guias sobre la distribución visual
+
+Un punto de alineación es una línea imaginaria vertical u horizontal a través de su ventana que toca el borde de una o más etiquetas o 
+controles en la ventana. Minimice el número de estas: cuantas menos existan, más limpio y simple aparecerá su diseño, y más fácil de 
+entender será para las personas.
+
+Alinee el contenido y controles en su diseño con exactitud.
+
+Sea consistente. Use la misma cantidad de espacio siempre.
+
+Organice controles e información relacionada en grupos, y use espacio para diferenciarlos.
+
+-Guias Tipografía
+Siempre que sea posible, use las fuentes predeterminadas del sistema proporcionadas por la distribución o el sistema operativo en el que
+su aplicación se esta ejecutando. 
+
+
+-Guias sobre estilos (Escribiendo estilos)
+Mantenga el texto corto y conciso
+
+No reduzca su texto hasta el punto de perder significado
+
+Use palabras, frases y conceptos que sean familiares a la gente que usará su aplicación, en lugar de términos del sistema subyacente
+
+El texto debe adoptar un tono neutral y hablar desde el punto de vista del producto. Los pronombres como «usted» o «yo» se deben evitar 
+siempre que sea posible. Sin embargo, si es inevitable, «su» es preferible a «mi».
+
+Use mayúsculas en la cabecera
+
+Use mayúsculas en las frases
+
+-Guias sobre el puntero y entrada táctil
+
+La doble pulsación no se debe usar, ya que no se puede descubrir y se exporta pobremente a la entrada táctil.
+
+Si el ratón tiene rueda de desplazamiento, ésta debe desplazar la ventana o el control de debajo del puntero, si éste lo soporta. Iniciar el 
+desplazamiento de esta manera no debe mover el foco del teclado de la ventana o del control que se desplaza.
+
+No requiera el uso de pulsación simultánea de varios botones del ratón a la vez para ninguna operación.
+
+No requiera el uso de varias pulsaciones (triple o cuádruple) para ninguna operación, a menos que proporcione una alternativa accesible para 
+realizar la misma acción.
+
+Permita que todas las operaciones hechas con el ratón se puedan cancelar antes de completarlas. Pulsar Esc debe cancelar cualquier operación 
+del ratón en curso, tales como arrastrar y soltar en un gestor de archivos o dibujar una sombra en una aplicación de dibujo.
+
+No se refiera a botones del ratón en particular en su interfaz a menos que sea absolutamente necesario. No todo el mundo usará el mismo ratón 
+convencional con botones izquierdo, derecho y central, por lo que el texto o los diagramas a los que se refiera pueden ser confusos.
+
+-Guias sobre la entrada de teclado
+Siga las teclas estándar de GNOME para la navegación. Tab es la tecla estándar para moverse por la interfaz en GTK+ y GNOME.
+
+
