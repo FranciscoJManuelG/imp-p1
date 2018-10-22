@@ -14,7 +14,6 @@ preservar funcionalidades básicas.
 
 Salir debe cerrar todas las ventanas primarias.
 
-
 -Guías Generales sobre uso de rejillas
 Ordene los elementos en la cuadrícula de acuerdo a lo que sea mas útil para las personas al usar su aplicación. Ordenar el contenido de 
 acuerdo a lo que se uso recientemente es a veces la mejor opción.

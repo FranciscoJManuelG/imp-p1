@@ -87,7 +87,6 @@ class ViewController:
         categoria_aux=self.view.get_category()
         category_error= categoria_aux is None
         self.view.handle_errors (date_error,duration_error,description_error,category_error)
-    
 	
 class View:
     def __init__(self):
@@ -188,8 +187,7 @@ class View:
         self.duration.get_style_context().add_class('error')
         self.create.set_sensitive(False)
         
-        #modo que indica si estamos en modo actualizar datos (u) o añadir datos (a)
-        self.mode = "a"
+        self.mode = "a" ##modo que indica si estamos en modo actualizar datos (u) o añadir datos (a)
 
     def connect(self, vc):
         self.create.connect('clicked', vc.on_create_clicked) 
