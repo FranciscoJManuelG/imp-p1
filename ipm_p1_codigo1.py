@@ -13,15 +13,15 @@ class Model():
 
     def add(self, data):
         if data is not None:
-           return True
+           return "200"
 
     def remove(self, treeiter):
         if treeiter != None:
-            return True
+            return "200"
 
     def edit(self, treeiter, data):
         if data != None:
-            return True
+            return "200"
 
 class ViewController:
     def __init__(self, model):
@@ -32,7 +32,7 @@ class ViewController:
     def on_create_clicked(self, w):
         data = self.view.get_data()
         r = self.model.add(data)
-        if r is True:
+        if r == "200":
         	self.view.add_act_list(data)
 
     def on_update_clicked(self, w):
@@ -56,7 +56,7 @@ class ViewController:
             return 
         treeiter = model.convert_iter_to_child_iter(filteriter)
         r = self.model.edit(treeiter, data)
-        if r is True:
+        if r == "200":
             self.view.modify_act_list(treeiter, data)
     
     def on_delete_clicked(self, w):
@@ -65,7 +65,7 @@ class ViewController:
             return 
         treeiter = model.convert_iter_to_child_iter(filteriter)
         r = self.model.remove(treeiter)
-        if r is True:
+        if r == "200":
         	self.view.remove_act_list(treeiter)
 
     def on_entries_selection_changed(self, selection):
@@ -87,6 +87,7 @@ class ViewController:
         categoria_aux=self.view.get_category()
         category_error= categoria_aux is None
         self.view.handle_errors (date_error,duration_error,description_error,category_error)
+    
 	
 class View:
     def __init__(self):
