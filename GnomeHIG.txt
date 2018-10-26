@@ -50,7 +50,6 @@ Organice controles e información relacionada en grupos, y use espacio para dife
 Siempre que sea posible, use las fuentes predeterminadas del sistema proporcionadas por la distribución o el sistema operativo en el que
 su aplicación se esta ejecutando. 
 
-
 -Guias sobre estilos (Escribiendo estilos)
 Mantenga el texto corto y conciso
 
