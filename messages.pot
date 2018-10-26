@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-25 08:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ipm-p1-server.py:154
+msgid "Ex. {}"
+msgstr ""
+
+#: ipm-p1-server.py:156
+msgid "Ex. 16"
+msgstr ""
+
+#: ipm-p1-server.py:158
+msgid "categoria1"
+msgstr ""
+
+#: ipm-p1-server.py:159
+msgid "categoria2"
+msgstr ""
+
+#: ipm-p1-server.py:160
+msgid "categoria3"
+msgstr ""
+
+#: ipm-p1-server.py:161
+msgid "categoria4"
+msgstr ""
+
+#: ipm-p1-server.py:162
+msgid "categoria5"
+msgstr ""
+
+#: ipm-p1-server.py:165
+msgid "Resumen del mes"
+msgstr ""
+
+#: ipm-p1-server.py:166
+msgid "Filtrar dia"
+msgstr ""
+
+#: ipm-p1-server.py:167
+msgid "Entradas introducidas"
+msgstr ""
+
+#: ipm-p1-server.py:169
+msgid "Añadir nueva entrada"
+msgstr ""
+
+#: ipm-p1-server.py:170
+msgid "Editar"
+msgstr ""
+
+#: ipm-p1-server.py:171
+msgid "Modificar datos"
+msgstr ""
+
+#: ipm-p1-server.py:172
+msgid "Eliminar"
+msgstr ""
+
+#: ipm-p1-server.py:183
+msgid "Id"
+msgstr ""
+
+#: ipm-p1-server.py:186
+msgid "Fecha"
+msgstr ""
+
+#: ipm-p1-server.py:189
+msgid "Duración"
+msgstr ""
+
+#: ipm-p1-server.py:192
+msgid "Categoría"
+msgstr ""
+
+#: ipm-p1-server.py:195
+msgid "Descripción"
+msgstr ""
+
+#: ipm-p1-server.py:205
+msgid "Fecha:"
+msgstr ""
+
+#: ipm-p1-server.py:207
+msgid "Duración (min.):"
+msgstr ""
+
+#: ipm-p1-server.py:209
+msgid "Categoría:"
+msgstr ""
+
+#: ipm-p1-server.py:211
+msgid "Descripción:"
+msgstr ""
+
+#: ipm-p1-server.py:249
+msgid "ipm1-p1"
+msgstr ""
+
+#: ipm-p1-server.py:433
+msgid "01"
+msgstr ""
+
+#: ipm-p1-server.py:434
+msgid "02"
+msgstr ""
+
+#: ipm-p1-server.py:435
+msgid "03"
+msgstr ""
+
+#: ipm-p1-server.py:436
+msgid "04"
+msgstr ""
+
+#: ipm-p1-server.py:437
+msgid "05"
+msgstr ""
+
+#: ipm-p1-server.py:438
+msgid "06"
+msgstr ""
+
+#: ipm-p1-server.py:439
+msgid "07"
+msgstr ""
+
+#: ipm-p1-server.py:440
+msgid "08"
+msgstr ""
+
+#: ipm-p1-server.py:441
+msgid "09"
+msgstr ""
+
+#: ipm-p1-server.py:442
+msgid "10"
+msgstr ""
+
+#: ipm-p1-server.py:443
+msgid "11"
+msgstr ""
+
+#: ipm-p1-server.py:444
+msgid "12"
+msgstr ""
+
+#: ipm-p1-server.py:447
+msgid "Mes: "
+msgstr ""
+
+#: ipm-p1-server.py:449
+msgid "Año"
+msgstr ""

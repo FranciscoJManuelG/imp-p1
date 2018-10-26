@@ -1,0 +1,170 @@
+# Spanish translations for TODO package.
+# Copyright (C) 2018 THE TODO'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the TODO package.
+# Jorge <j.brios@udc.es>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TODO  3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-25 08:44+0200\n"
+"PO-Revision-Date: 2018-10-25 08:44+0200\n"
+"Last-Translator: Jorge <j.brios@udc.es>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ipm-p1-server.py:154
+msgid "Ex. {}"
+msgstr "Ex. {}"
+
+#: ipm-p1-server.py:156
+msgid "Ex. 16"
+msgstr "Ex. 16"
+
+#: ipm-p1-server.py:158
+msgid "categoria1"
+msgstr "categoria1"
+
+#: ipm-p1-server.py:159
+msgid "categoria2"
+msgstr "categoria2"
+
+#: ipm-p1-server.py:160
+msgid "categoria3"
+msgstr "categoria3"
+
+#: ipm-p1-server.py:161
+msgid "categoria4"
+msgstr "categoria4"
+
+#: ipm-p1-server.py:162
+msgid "categoria5"
+msgstr "categoria5"
+
+#: ipm-p1-server.py:165
+msgid "Resumen del mes"
+msgstr "Resumen del mes"
+
+#: ipm-p1-server.py:166
+msgid "Filtrar dia"
+msgstr "Filtrar dia"
+
+#: ipm-p1-server.py:167
+msgid "Entradas introducidas"
+msgstr "Entradas introducidas"
+
+#: ipm-p1-server.py:169
+msgid "Añadir nueva entrada"
+msgstr "Añadir nueva entrada"
+
+#: ipm-p1-server.py:170
+msgid "Editar"
+msgstr "Editar"
+
+#: ipm-p1-server.py:171
+msgid "Modificar datos"
+msgstr "Modificar datos"
+
+#: ipm-p1-server.py:172
+msgid "Eliminar"
+msgstr "Eliminar"
+
+#: ipm-p1-server.py:183
+msgid "Id"
+msgstr "Id"
+
+#: ipm-p1-server.py:186
+msgid "Fecha"
+msgstr "Fecha"
+
+#: ipm-p1-server.py:189
+msgid "Duración"
+msgstr "Duración"
+
+#: ipm-p1-server.py:192
+msgid "Categoría"
+msgstr "Categoría"
+
+#: ipm-p1-server.py:195
+msgid "Descripción"
+msgstr "Descripción"
+
+#: ipm-p1-server.py:205
+msgid "Fecha:"
+msgstr "Fecha:"
+
+#: ipm-p1-server.py:207
+msgid "Duración (min.):"
+msgstr "Duración (min.):"
+
+#: ipm-p1-server.py:209
+msgid "Categoría:"
+msgstr "Categoría:"
+
+#: ipm-p1-server.py:211
+msgid "Descripción:"
+msgstr "Descripción:"
+
+#: ipm-p1-server.py:249
+msgid "ipm1-p1"
+msgstr "ipm1-p1"
+
+#: ipm-p1-server.py:433
+msgid "01"
+msgstr "01"
+
+#: ipm-p1-server.py:434
+msgid "02"
+msgstr "02"
+
+#: ipm-p1-server.py:435
+msgid "03"
+msgstr "03"
+
+#: ipm-p1-server.py:436
+msgid "04"
+msgstr "04"
+
+#: ipm-p1-server.py:437
+msgid "05"
+msgstr "05"
+
+#: ipm-p1-server.py:438
+msgid "06"
+msgstr "06"
+
+#: ipm-p1-server.py:439
+msgid "07"
+msgstr "07"
+
+#: ipm-p1-server.py:440
+msgid "08"
+msgstr "08"
+
+#: ipm-p1-server.py:441
+msgid "09"
+msgstr "09"
+
+#: ipm-p1-server.py:442
+msgid "10"
+msgstr "10"
+
+#: ipm-p1-server.py:443
+msgid "11"
+msgstr "11"
+
+#: ipm-p1-server.py:444
+msgid "12"
+msgstr "12"
+
+#: ipm-p1-server.py:447
+msgid "Mes: "
+msgstr "Mes: "
+
+#: ipm-p1-server.py:449
+msgid "Año"
+msgstr "Año"
